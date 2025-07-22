@@ -30,7 +30,7 @@ The dashboard explores **skills in demand, job postings, salary insights, and jo
 ---
 
 ## **📷 Dashboard Preview**
-![Dashboard Preview](Power BI Dashboard.png)
+![Dashboard Preview](Dashboard.png)
 
 
 ---
