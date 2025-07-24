@@ -39,13 +39,12 @@ The dashboard explores **skills in demand, job postings, salary insights, and jo
 - **Python** and **SQL** are the most in-demand skills, dominating the job market.  
 - **LinkedIn** is the leading job platform (60%+ share).  
 - **Full-time roles** represent the majority of job postings (420K+).  
-- **Data Scientist and Data Engineer** roles offer top salaries (up to $150K/year).  
+- **Senior Data Scientist and Machine Learning Engineer** roles offer top salaries (up to $150K/year).  
 - **Work-from-home jobs** account for only 13% of postings, with on-site being dominant. 
 
 ---
 
-## **🏷 Hashtags**
-#PowerBI #DataAnalytics #BusinessIntelligence #DashboardDesign #PortfolioProject #JobMarket #DataVisualization
+
 
 
 
